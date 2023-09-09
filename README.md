@@ -15,6 +15,8 @@
 
 [Not a Rickroll](https://www.youtube.com/watch?v=dpKc8N3FJsQ)
 
+You know the rules, and so do I
+
 ![You know the rules, and so do I](https://github.com/isaactodo/hello-world/assets/144397769/d847686e-a3ef-45a4-875a-7eb32ec85e1e)
 
 
